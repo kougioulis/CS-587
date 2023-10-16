@@ -12,5 +12,6 @@
 .*.lb
 *.synctex.gz
 Assignments/cifar-10-python.tar.gz
-Assignments/CS587_3rd_Assignment/CS587-Assignment_3/weights
+Assignments/CS587_3rd_Assignment/CS587-Assignment_3/weights/
+Assignments/CS587_3rd_Assignment/CS587-Assignment_3/finetune_alexnet/CheckPoint/
 Assignments/CS587_3rd_Assignment/CS587-Assignment_3/Utilities/data/
